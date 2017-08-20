@@ -1,0 +1,5 @@
+com\simpleprogrammer\proteintracker\InvalidGoalException.class
+com\simpleprogrammer\proteintracker\HistoryItem.class
+com\simpleprogrammer\proteintracker\NotifierStub.class
+com\simpleprogrammer\proteintracker\TrackingService.class
+com\simpleprogrammer\proteintracker\Notifier.class
